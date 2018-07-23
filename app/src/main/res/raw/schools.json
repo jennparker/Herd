@@ -1,0 +1,5 @@
+[
+  {"lat" : 47.628709, "lng" : -122.307344, "School_Name" : "St. Josephs", "Percent_complete_for_all_immunizations" : 100 } ,
+  {"lat" : 47.615866, "lng" : -122.316614, "School_Name" : "Twin Willows", "Percent_complete_for_all_immunizations" : 55 } ,
+  {"lat" : 47.617024, "lng" : -122.312494, "School_Name" : "Einstein", "Percent_complete_for_all_immunizations" : 85 }
+]

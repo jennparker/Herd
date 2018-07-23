@@ -1,0 +1,2528 @@
+[
+    {
+        "School_Name": "THE SAMMAMISH MONTESSORI SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.672372,
+        "lng": -122.100674
+    },
+    {
+        "School_Name": "BRIGHT WATER SCHOOL",
+        "Percent_complete_for_all_immunizations": 16.7,
+        "lat": 47.632441,
+        "lng": -122.320199
+    },
+    {
+        "School_Name": "MONTESSORI CHILDREN'S HOUSE",
+        "Percent_complete_for_all_immunizations": 68.8,
+        "lat": 47.653089,
+        "lng": -122.048759
+    },
+    {
+        "School_Name": "ST. MADELEINE SOPHIE SCHOOL",
+        "Percent_complete_for_all_immunizations": 92.9,
+        "lat": 47.567104,
+        "lng": -122.166587
+    },
+    {
+        "School_Name": "TLC MONTESSORI",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.623782,
+        "lng": -122.052777
+    },
+    {
+        "School_Name": "LIVING WISDOM SCHOOL OF SEATTLE",
+        "Percent_complete_for_all_immunizations": 33.3,
+        "lat": 47.80682,
+        "lng": -122.324152
+    },
+    {
+        "School_Name": "TILDEN SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.566381,
+        "lng": -122.386788
+    },
+    {
+        "School_Name": "BEL-RED BILINGUAL ACADEMY",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.627612,
+        "lng": -122.138098
+    },
+    {
+        "School_Name": "CHESTNUT HILL ACADEMY SOUTH CAMPUS",
+        "Percent_complete_for_all_immunizations": 96.1,
+        "lat": 47.58731,
+        "lng": -122.158409
+    },
+    {
+        "School_Name": "LIVING MONTESSORI ACADEMY",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.63253,
+        "lng": -122.153737
+    },
+    {
+        "School_Name": "OVERCOMER ACADEMY",
+        "Percent_complete_for_all_immunizations": 17.6,
+        "lat": 47.301794,
+        "lng": -122.27512
+    },
+    {
+        "School_Name": "SUMMIT CLASSICAL CHRISTIAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 33.3,
+        "lat": 47.50731,
+        "lng": -121.797082
+    },
+    {
+        "School_Name": "KAPKA COOPERATIVE SCHOOL",
+        "Percent_complete_for_all_immunizations": 40.0,
+        "lat": 47.664287,
+        "lng": -122.35259
+    },
+    {
+        "School_Name": "ACADEMY FOR PRECISION LEARNING",
+        "Percent_complete_for_all_immunizations": 66.7,
+        "lat": 47.665668,
+        "lng": -122.313076
+    },
+    {
+        "School_Name": "TOPS K-8 SCHOOL",
+        "Percent_complete_for_all_immunizations": 84.6,
+        "lat": 47.64259,
+        "lng": -122.324621
+    },
+    {
+        "School_Name": "PATHFINDER K-8 SCHOOL",
+        "Percent_complete_for_all_immunizations": 78.4,
+        "lat": 47.563296,
+        "lng": -122.357024
+    },
+    {
+        "School_Name": "SPECIAL EDUCATION",
+        "Percent_complete_for_all_immunizations": 0.0,
+        "lat": 47.764997,
+        "lng": -122.329669
+    },
+    {
+        "School_Name": "EMERSON K-12",
+        "Percent_complete_for_all_immunizations": 75.0,
+        "lat": 47.655837,
+        "lng": -122.194807
+    },
+    {
+        "School_Name": "CASCADE PARENT PARTNERSHIP PROGRAM",
+        "Percent_complete_for_all_immunizations": 45.5,
+        "lat": 47.694176,
+        "lng": -122.340478
+    },
+    {
+        "School_Name": "HOME EDUCATION EXCHANGE",
+        "Percent_complete_for_all_immunizations": 83.3,
+        "lat": 47.766743,
+        "lng": -122.320299
+    },
+    {
+        "School_Name": "H.O.M.E. PROGRAM",
+        "Percent_complete_for_all_immunizations": 66.7,
+        "lat": 47.45727,
+        "lng": -122.19864
+    },
+    {
+        "School_Name": "SALMON BAY K-8 SCHOOL",
+        "Percent_complete_for_all_immunizations": 66.7,
+        "lat": 47.675986,
+        "lng": -122.380505
+    },
+    {
+        "School_Name": "Special Services",
+        "Percent_complete_for_all_immunizations": 0.0,
+        "lat": 47.778054,
+        "lng": -122.18971
+    },
+    {
+        "School_Name": "FAMILY LINK",
+        "Percent_complete_for_all_immunizations": 28.6,
+        "lat": 47.423901,
+        "lng": -122.444492
+    },
+    {
+        "School_Name": "PARADE",
+        "Percent_complete_for_all_immunizations": 60.0,
+        "lat": 47.651554,
+        "lng": -121.909376
+    },
+    {
+        "School_Name": "CASCADE K-8 COMMUNITY SCHOOL",
+        "Percent_complete_for_all_immunizations": 82.6,
+        "lat": 47.752615,
+        "lng": -122.334787
+    },
+    {
+        "School_Name": "MUCKLESHOOT TRIBAL SCHOOL",
+        "Percent_complete_for_all_immunizations": 80.8,
+        "lat": 47.251329,
+        "lng": -122.112192
+    },
+    {
+        "School_Name": "GREEN LAKE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 85.1,
+        "lat": 47.675968,
+        "lng": -122.32966
+    },
+    {
+        "School_Name": "JOHN HAY ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 82.3,
+        "lat": 47.633172,
+        "lng": -122.35199
+    },
+    {
+        "School_Name": "MADRONA K-8 SCHOOL",
+        "Percent_complete_for_all_immunizations": 88.0,
+        "lat": 47.612516,
+        "lng": -122.2904
+    },
+    {
+        "School_Name": "BEACON HILL INTERNATIONAL SCHOOL",
+        "Percent_complete_for_all_immunizations": 88.7,
+        "lat": 47.585077,
+        "lng": -122.314682
+    },
+    {
+        "School_Name": "STEVENS ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 93.3,
+        "lat": 47.6313,
+        "lng": -122.30858
+    },
+    {
+        "School_Name": "JOHN STANFORD INTERNATIONAL ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 87.1,
+        "lat": 47.656885,
+        "lng": -122.323477
+    },
+    {
+        "School_Name": "MARTIN LUTHER KING JR. ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 89.7,
+        "lat": 47.532823,
+        "lng": -122.375256
+    },
+    {
+        "School_Name": "FRANTZ COE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 92.4,
+        "lat": 47.640667,
+        "lng": -122.366278
+    },
+    {
+        "School_Name": "WHITTIER ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 92.8,
+        "lat": 47.683248,
+        "lng": -122.373425
+    },
+    {
+        "School_Name": "EMERSON ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 71.7,
+        "lat": 47.514691,
+        "lng": -122.258186
+    },
+    {
+        "School_Name": "VAN ASSELT ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 75.9,
+        "lat": 47.529501,
+        "lng": -122.288095
+    },
+    {
+        "School_Name": "LESCHI ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 79.4,
+        "lat": 47.602228,
+        "lng": -122.291214
+    },
+    {
+        "School_Name": "GREENWOOD ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 76.8,
+        "lat": 47.686934,
+        "lng": -122.359311
+    },
+    {
+        "School_Name": "ADAMS ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 88.2,
+        "lat": 47.673413,
+        "lng": -122.392986
+    },
+    {
+        "School_Name": "GATEWOOD ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 84.9,
+        "lat": 47.539857,
+        "lng": -122.388925
+    },
+    {
+        "School_Name": "THURGOOD MARSHALL ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 85.5,
+        "lat": 47.591214,
+        "lng": -122.299512
+    },
+    {
+        "School_Name": "WEST WOODLAND ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 93.7,
+        "lat": 47.669415,
+        "lng": -122.361866
+    },
+    {
+        "School_Name": "JOHN MUIR ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 81.4,
+        "lat": 47.573764,
+        "lng": -122.290816
+    },
+    {
+        "School_Name": "MOUNT VIEW ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 64.6,
+        "lat": 47.500222,
+        "lng": -122.329779
+    },
+    {
+        "School_Name": "ALKI ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 90.8,
+        "lat": 47.577289,
+        "lng": -122.408076
+    },
+    {
+        "School_Name": "LAWTON ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 88.4,
+        "lat": 47.656516,
+        "lng": -122.390949
+    },
+    {
+        "School_Name": "LAKE FOREST PARK ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 89.9,
+        "lat": 47.763874,
+        "lng": -122.2892
+    },
+    {
+        "School_Name": "CONCORD INTERNATIONAL SCHOOL",
+        "Percent_complete_for_all_immunizations": 87.8,
+        "lat": 47.523918,
+        "lng": -122.3243
+    },
+    {
+        "School_Name": "MCGILVRA ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 86.2,
+        "lat": 47.633991,
+        "lng": -122.284071
+    },
+    {
+        "School_Name": "BROADVIEW-THOMSON K_8 SCHOOL",
+        "Percent_complete_for_all_immunizations": 86.1,
+        "lat": 47.724562,
+        "lng": -122.355569
+    },
+    {
+        "School_Name": "FALL CITY ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 88.4,
+        "lat": 47.568657,
+        "lng": -121.892762
+    },
+    {
+        "School_Name": "OLYMPIC VIEW ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 85.7,
+        "lat": 47.697685,
+        "lng": -122.321713
+    },
+    {
+        "School_Name": "HIGHLAND PARK ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 83.0,
+        "lat": 47.52467,
+        "lng": -122.348677
+    },
+    {
+        "School_Name": "NORTH BEND ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 89.2,
+        "lat": 47.494577,
+        "lng": -121.780234
+    },
+    {
+        "School_Name": "SNOQUALMIE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 88.5,
+        "lat": 47.52628,
+        "lng": -121.812546
+    },
+    {
+        "School_Name": "REDMOND ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 66.3,
+        "lat": 47.674881,
+        "lng": -122.117107
+    },
+    {
+        "School_Name": "BAILEY GATZERT ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 74.4,
+        "lat": 47.6017,
+        "lng": -122.3155
+    },
+    {
+        "School_Name": "DUNLAP ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 78.0,
+        "lat": 47.526112,
+        "lng": -122.274682
+    },
+    {
+        "School_Name": "MONTLAKE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 90.2,
+        "lat": 47.640392,
+        "lng": -122.303812
+    },
+    {
+        "School_Name": "WASHINGTON ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 91.7,
+        "lat": 47.308675,
+        "lng": -122.213429
+    },
+    {
+        "School_Name": "MAPLE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 87.5,
+        "lat": 47.557415,
+        "lng": -122.318294
+    },
+    {
+        "School_Name": "BRYANT ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 83.7,
+        "lat": 47.672145,
+        "lng": -122.292035
+    },
+    {
+        "School_Name": "DES MOINES ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 85.3,
+        "lat": 47.404636,
+        "lng": -122.322087
+    },
+    {
+        "School_Name": "LAURELHURST ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 85.5,
+        "lat": 47.662184,
+        "lng": -122.278384
+    },
+    {
+        "School_Name": "BRYN MAWR ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 95.7,
+        "lat": 47.497288,
+        "lng": -122.228941
+    },
+    {
+        "School_Name": "DANIEL BAGLEY ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 80.4,
+        "lat": 47.685646,
+        "lng": -122.341801
+    },
+    {
+        "School_Name": "LOYAL HEIGHTS ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 97.1,
+        "lat": 47.686794,
+        "lng": -122.388958
+    },
+    {
+        "School_Name": "SKYKOMISH ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 60.0,
+        "lat": 47.709298,
+        "lng": -121.361958
+    },
+    {
+        "School_Name": "Meridian Elementary",
+        "Percent_complete_for_all_immunizations": 87.8,
+        "lat": 47.371335,
+        "lng": -122.154865
+    },
+    {
+        "School_Name": "KENNYDALE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 90.5,
+        "lat": 47.516641,
+        "lng": -122.196976
+    },
+    {
+        "School_Name": "WHITE CENTER HEIGHTS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 91.1,
+        "lat": 47.513015,
+        "lng": -122.342337
+    },
+    {
+        "School_Name": "HIGHLANDS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 84.6,
+        "lat": 47.494043,
+        "lng": -122.182756
+    },
+    {
+        "School_Name": "WEST SEATTLE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 82.9,
+        "lat": 47.541081,
+        "lng": -122.375215
+    },
+    {
+        "School_Name": "TERMINAL PARK ELEMENTARY SCHOO",
+        "Percent_complete_for_all_immunizations": 79.5,
+        "lat": 47.297918,
+        "lng": -122.224067
+    },
+    {
+        "School_Name": "VIEW RIDGE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 95.4,
+        "lat": 47.680815,
+        "lng": -122.27434
+    },
+    {
+        "School_Name": "HAZEL VALLEY ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 89.1,
+        "lat": 47.484878,
+        "lng": -122.340589
+    },
+    {
+        "School_Name": "ARBOR HEIGHTS ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 87.9,
+        "lat": 47.510021,
+        "lng": -122.378006
+    },
+    {
+        "School_Name": "LAFAYETTE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 81.3,
+        "lat": 47.579806,
+        "lng": -122.386601
+    },
+    {
+        "School_Name": "MCMICKEN HEIGHTS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 89.1,
+        "lat": 47.45288,
+        "lng": -122.285802
+    },
+    {
+        "School_Name": "Clark Elementary",
+        "Percent_complete_for_all_immunizations": 91.3,
+        "lat": 47.525198,
+        "lng": -122.032173
+    },
+    {
+        "School_Name": "BEVERLY PARK ELEM AT GLENDALE",
+        "Percent_complete_for_all_immunizations": 97.0,
+        "lat": 47.51035,
+        "lng": -122.318327
+    },
+    {
+        "School_Name": "JUANITA ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 58.5,
+        "lat": 47.718494,
+        "lng": -122.210231
+    },
+    {
+        "School_Name": "CATHARINE BLAINE K-8 SCHOOL",
+        "Percent_complete_for_all_immunizations": 83.0,
+        "lat": 47.641905,
+        "lng": -122.400984
+    },
+    {
+        "School_Name": "LAKELAND ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 81.6,
+        "lat": 47.280154,
+        "lng": -122.292302
+    },
+    {
+        "School_Name": "SHOREWOOD ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 88.6,
+        "lat": 47.499173,
+        "lng": -122.367842
+    },
+    {
+        "School_Name": "GREGORY HEIGHTS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 83.5,
+        "lat": 47.457575,
+        "lng": -122.35527
+    },
+    {
+        "School_Name": "Enatai Elementary",
+        "Percent_complete_for_all_immunizations": 87.7,
+        "lat": 47.589908,
+        "lng": -122.198511
+    },
+    {
+        "School_Name": "Clyde Hill Elementary",
+        "Percent_complete_for_all_immunizations": 78.0,
+        "lat": 47.631988,
+        "lng": -122.212458
+    },
+    {
+        "School_Name": "East Hill Elementary",
+        "Percent_complete_for_all_immunizations": 91.5,
+        "lat": 47.386939,
+        "lng": -122.208778
+    },
+    {
+        "School_Name": "CEDARHURST ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 87.3,
+        "lat": 47.484911,
+        "lng": -122.324958
+    },
+    {
+        "School_Name": "LAKERIDGE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 88.9,
+        "lat": 47.499639,
+        "lng": -122.240768
+    },
+    {
+        "School_Name": "DICK SCOBEE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 88.9,
+        "lat": 47.320376,
+        "lng": -122.21626
+    },
+    {
+        "School_Name": "JOHN ROGERS ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 81.0,
+        "lat": 47.707572,
+        "lng": -122.285382
+    },
+    {
+        "School_Name": "OLYMPIC HILLS ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 80.3,
+        "lat": 47.723884,
+        "lng": -122.307243
+    },
+    {
+        "School_Name": "VIEWLANDS ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 79.3,
+        "lat": 47.705562,
+        "lng": -122.36081
+    },
+    {
+        "School_Name": "BYRON KIBLER ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 84.3,
+        "lat": 47.210172,
+        "lng": -121.995275
+    },
+    {
+        "School_Name": "LAKERIDGE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 96.2,
+        "lat": 47.532984,
+        "lng": -122.228778
+    },
+    {
+        "School_Name": "BOW LAKE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 78.2,
+        "lat": 47.438794,
+        "lng": -122.281558
+    },
+    {
+        "School_Name": "NORTH HILL ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 90.3,
+        "lat": 47.436515,
+        "lng": -122.328059
+    },
+    {
+        "School_Name": "MIDWAY ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 74.2,
+        "lat": 47.400041,
+        "lng": -122.302514
+    },
+    {
+        "School_Name": "BRIARCREST ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 98.5,
+        "lat": 47.742814,
+        "lng": -122.297732
+    },
+    {
+        "School_Name": "ROSE HILL ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 73.3,
+        "lat": 47.676206,
+        "lng": -122.169333
+    },
+    {
+        "School_Name": "KENMORE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 83.1,
+        "lat": 47.767463,
+        "lng": -122.242787
+    },
+    {
+        "School_Name": "EAGLE ROCK MULTIAGE SCHOOL",
+        "Percent_complete_for_all_immunizations": 90.0,
+        "lat": 47.73443,
+        "lng": -121.946856
+    },
+    {
+        "School_Name": "WEDGWOOD ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 91.0,
+        "lat": 47.69025,
+        "lng": -122.297602
+    },
+    {
+        "School_Name": "NORTHGATE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 79.5,
+        "lat": 47.71482,
+        "lng": -122.328809
+    },
+    {
+        "School_Name": "SACAJAWEA ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 75.6,
+        "lat": 47.698298,
+        "lng": -122.306819
+    },
+    {
+        "School_Name": "SOUTHERN HEIGHTS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 95.8,
+        "lat": 47.502007,
+        "lng": -122.315288
+    },
+    {
+        "School_Name": "CAMPBELL HILL ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 90.3,
+        "lat": 47.492084,
+        "lng": -122.253059
+    },
+    {
+        "School_Name": "Eastgate Elementary",
+        "Percent_complete_for_all_immunizations": 82.1,
+        "lat": 47.571237,
+        "lng": -122.13767
+    },
+    {
+        "School_Name": "LAKEVIEW ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 65.8,
+        "lat": 47.666756,
+        "lng": -122.20064
+    },
+    {
+        "School_Name": "MARVISTA ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 82.4,
+        "lat": 47.424156,
+        "lng": -122.344158
+    },
+    {
+        "School_Name": "Stevenson Elementary",
+        "Percent_complete_for_all_immunizations": 73.3,
+        "lat": 47.617126,
+        "lng": -122.150784
+    },
+    {
+        "School_Name": "ECHO LAKE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 88.2,
+        "lat": 47.769602,
+        "lng": -122.337871
+    },
+    {
+        "School_Name": "CRYSTAL SPRINGS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 87.6,
+        "lat": 47.801459,
+        "lng": -122.220825
+    },
+    {
+        "School_Name": "ARROWHEAD ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 94.0,
+        "lat": 47.738097,
+        "lng": -122.250926
+    },
+    {
+        "School_Name": "ROXHILL ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 75.7,
+        "lat": 47.518509,
+        "lng": -122.371364
+    },
+    {
+        "School_Name": "MIRROR LAKE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 90.5,
+        "lat": 47.320623,
+        "lng": -122.325236
+    },
+    {
+        "School_Name": "STAR LAKE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 84.0,
+        "lat": 47.359653,
+        "lng": -122.283136
+    },
+    {
+        "School_Name": "ISLAND PARK ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 95.1,
+        "lat": 47.553794,
+        "lng": -122.221596
+    },
+    {
+        "School_Name": "HILLTOP ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 96.8,
+        "lat": 47.492821,
+        "lng": -122.302107
+    },
+    {
+        "School_Name": "Woodridge Elementary",
+        "Percent_complete_for_all_immunizations": 84.1,
+        "lat": 47.592563,
+        "lng": -122.172098
+    },
+    {
+        "School_Name": "Phantom Lake Elementary",
+        "Percent_complete_for_all_immunizations": 95.5,
+        "lat": 47.599065,
+        "lng": -122.126329
+    },
+    {
+        "School_Name": "NORTH BEACH ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 88.9,
+        "lat": 47.695597,
+        "lng": -122.38758
+    },
+    {
+        "School_Name": "Lake Hills Elementary",
+        "Percent_complete_for_all_immunizations": 84.1,
+        "lat": 47.600014,
+        "lng": -122.148713
+    },
+    {
+        "School_Name": "CASCADE VIEW ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 87.5,
+        "lat": 47.481614,
+        "lng": -122.291819
+    },
+    {
+        "School_Name": "PIONEER ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 80.0,
+        "lat": 47.28825,
+        "lng": -122.213372
+    },
+    {
+        "School_Name": "Sunset Elementary",
+        "Percent_complete_for_all_immunizations": 89.9,
+        "lat": 47.613702,
+        "lng": -122.190934
+    },
+    {
+        "School_Name": "BROOKSIDE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 92.4,
+        "lat": 47.75507,
+        "lng": -122.289194
+    },
+    {
+        "School_Name": "HIGHLAND TERRACE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.745022,
+        "lng": -122.358188
+    },
+    {
+        "School_Name": "COTTAGE LAKE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 93.9,
+        "lat": 47.744326,
+        "lng": -122.081325
+    },
+    {
+        "School_Name": "MADRONA ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 86.5,
+        "lat": 47.419971,
+        "lng": -122.291965
+    },
+    {
+        "School_Name": "LAKE WILDERNESS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 84.5,
+        "lat": 47.384355,
+        "lng": -122.048064
+    },
+    {
+        "School_Name": "WESTHILL ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 89.6,
+        "lat": 47.770532,
+        "lng": -122.223191
+    },
+    {
+        "School_Name": "WOODMONT ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 83.6,
+        "lat": 47.363349,
+        "lng": -122.313242
+    },
+    {
+        "School_Name": "PANTHER LAKE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 79.2,
+        "lat": 47.292352,
+        "lng": -122.334743
+    },
+    {
+        "School_Name": "PARKSIDE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 88.2,
+        "lat": 47.38054,
+        "lng": -122.306307
+    },
+    {
+        "School_Name": "CASCADE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 93.3,
+        "lat": 47.458612,
+        "lng": -122.185938
+    },
+    {
+        "School_Name": "Sherwood Forest Elementary",
+        "Percent_complete_for_all_immunizations": 87.2,
+        "lat": 47.631314,
+        "lng": -122.120236
+    },
+    {
+        "School_Name": "MAYWOOD HILLS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 86.0,
+        "lat": 47.769201,
+        "lng": -122.201603
+    },
+    {
+        "School_Name": "GRAHAM HILL ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 88.9,
+        "lat": 47.546091,
+        "lng": -122.267728
+    },
+    {
+        "School_Name": "RAINIER VIEW ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 89.8,
+        "lat": 47.498608,
+        "lng": -122.264228
+    },
+    {
+        "School_Name": "SEAHURST ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 87.8,
+        "lat": 47.471665,
+        "lng": -122.352618
+    },
+    {
+        "School_Name": "Sunny Hills Elementary",
+        "Percent_complete_for_all_immunizations": 96.5,
+        "lat": 47.579104,
+        "lng": -122.028394
+    },
+    {
+        "School_Name": "Covington Elementary",
+        "Percent_complete_for_all_immunizations": 89.7,
+        "lat": 47.352487,
+        "lng": -122.114432
+    },
+    {
+        "School_Name": "Scenic Hill Elementary",
+        "Percent_complete_for_all_immunizations": 78.8,
+        "lat": 47.368071,
+        "lng": -122.209518
+    },
+    {
+        "School_Name": "LOCKWOOD ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 77.1,
+        "lat": 47.779315,
+        "lng": -122.254748
+    },
+    {
+        "School_Name": "GENESEE HILL",
+        "Percent_complete_for_all_immunizations": 78.0,
+        "lat": 47.572122,
+        "lng": -122.396538
+    },
+    {
+        "School_Name": "BLACK DIAMOND ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 79.6,
+        "lat": 47.309341,
+        "lng": -122.004479
+    },
+    {
+        "School_Name": "OLYMPIC VIEW ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 83.8,
+        "lat": 47.308861,
+        "lng": -122.367528
+    },
+    {
+        "School_Name": "WEST MERCER ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 80.9,
+        "lat": 47.571916,
+        "lng": -122.230137
+    },
+    {
+        "School_Name": "Medina Elementary",
+        "Percent_complete_for_all_immunizations": 90.2,
+        "lat": 47.61748,
+        "lng": -122.233225
+    },
+    {
+        "School_Name": "Newport Heights Elementary",
+        "Percent_complete_for_all_immunizations": 94.9,
+        "lat": 47.555895,
+        "lng": -122.179684
+    },
+    {
+        "School_Name": "CHINOOK ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 90.3,
+        "lat": 47.28822,
+        "lng": -122.179806
+    },
+    {
+        "School_Name": "Briarwood Elementary",
+        "Percent_complete_for_all_immunizations": 96.1,
+        "lat": 47.482473,
+        "lng": -122.114181
+    },
+    {
+        "School_Name": "TWAIN ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 65.1,
+        "lat": 47.687468,
+        "lng": -122.167486
+    },
+    {
+        "School_Name": "MOORLANDS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 91.3,
+        "lat": 47.738576,
+        "lng": -122.22896
+    },
+    {
+        "School_Name": "KIMBALL ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 90.7,
+        "lat": 47.574087,
+        "lng": -122.303353
+    },
+    {
+        "School_Name": "HAZELWOOD ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 96.0,
+        "lat": 47.53799,
+        "lng": -122.185656
+    },
+    {
+        "School_Name": "TUKWILA ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 87.8,
+        "lat": 47.469574,
+        "lng": -122.25925
+    },
+    {
+        "School_Name": "PARKWOOD ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 93.0,
+        "lat": 47.741432,
+        "lng": -122.336397
+    },
+    {
+        "School_Name": "THOREAU ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 70.1,
+        "lat": 47.724252,
+        "lng": -122.231387
+    },
+    {
+        "School_Name": "Park Orchard Elementary",
+        "Percent_complete_for_all_immunizations": 90.8,
+        "lat": 47.39418,
+        "lng": -122.193145
+    },
+    {
+        "School_Name": "FAIRMOUNT PARK ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 80.3,
+        "lat": 47.552005,
+        "lng": -122.380324
+    },
+    {
+        "School_Name": "ADELAIDE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 75.0,
+        "lat": 47.329632,
+        "lng": -122.356963
+    },
+    {
+        "School_Name": "RENTON PARK ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 82.7,
+        "lat": 47.451468,
+        "lng": -122.169906
+    },
+    {
+        "School_Name": "LEA HILL ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 74.4,
+        "lat": 47.325268,
+        "lng": -122.176407
+    },
+    {
+        "School_Name": "SYRE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 91.3,
+        "lat": 47.771985,
+        "lng": -122.371988
+    },
+    {
+        "School_Name": "MANN ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 82.4,
+        "lat": 47.692899,
+        "lng": -122.114207
+    },
+    {
+        "School_Name": "CAMELOT ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 63.3,
+        "lat": 47.334888,
+        "lng": -122.284107
+    },
+    {
+        "School_Name": "AUDUBON ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 62.6,
+        "lat": 47.637487,
+        "lng": -122.100306
+    },
+    {
+        "School_Name": "Lake Youngs Elementary",
+        "Percent_complete_for_all_immunizations": 95.3,
+        "lat": 47.422766,
+        "lng": -122.151944
+    },
+    {
+        "School_Name": "SUNNYCREST ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 63.7,
+        "lat": 47.380688,
+        "lng": -122.28119
+    },
+    {
+        "School_Name": "LAKE GROVE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 88.1,
+        "lat": 47.326062,
+        "lng": -122.338053
+    },
+    {
+        "School_Name": "WING LUKE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 82.4,
+        "lat": 47.531526,
+        "lng": -122.284777
+    },
+    {
+        "School_Name": "VALHALLA ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 91.2,
+        "lat": 47.35153,
+        "lng": -122.28133
+    },
+    {
+        "School_Name": "WILDWOOD ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 84.9,
+        "lat": 47.333241,
+        "lng": -122.301321
+    },
+    {
+        "School_Name": "WESTWOOD ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 86.4,
+        "lat": 47.22824,
+        "lng": -122.05761
+    },
+    {
+        "School_Name": "MAPLEWOOD HEIGHTS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 94.6,
+        "lat": 47.480441,
+        "lng": -122.148231
+    },
+    {
+        "School_Name": "BENSON HILL ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 87.8,
+        "lat": 47.434728,
+        "lng": -122.186334
+    },
+    {
+        "School_Name": "SHADOW LAKE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 86.3,
+        "lat": 47.397788,
+        "lng": -122.048199
+    },
+    {
+        "School_Name": "FRANKLIN ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 73.2,
+        "lat": 47.660758,
+        "lng": -122.173557
+    },
+    {
+        "School_Name": "BELL ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 50.0,
+        "lat": 47.700395,
+        "lng": -122.192342
+    },
+    {
+        "School_Name": "Pine Tree Elementary",
+        "Percent_complete_for_all_immunizations": 85.3,
+        "lat": 47.351986,
+        "lng": -122.18415
+    },
+    {
+        "School_Name": "NAUTILUS  K-8 SCHOOL",
+        "Percent_complete_for_all_immunizations": 86.4,
+        "lat": 47.342563,
+        "lng": -122.323413
+    },
+    {
+        "School_Name": "MARK TWAIN ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 90.7,
+        "lat": 47.355228,
+        "lng": -122.300792
+    },
+    {
+        "School_Name": "TWIN LAKES ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 89.7,
+        "lat": 47.315177,
+        "lng": -122.388832
+    },
+    {
+        "School_Name": "Ardmore Elementary",
+        "Percent_complete_for_all_immunizations": 90.8,
+        "lat": 47.638644,
+        "lng": -122.117691
+    },
+    {
+        "School_Name": "Spiritridge Elementary",
+        "Percent_complete_for_all_immunizations": 92.0,
+        "lat": 47.611225,
+        "lng": -122.138229
+    },
+    {
+        "School_Name": "THORNDYKE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 85.5,
+        "lat": 47.468696,
+        "lng": -122.276636
+    },
+    {
+        "School_Name": "Maple Hills Elementary",
+        "Percent_complete_for_all_immunizations": 94.4,
+        "lat": 47.462341,
+        "lng": -122.067627
+    },
+    {
+        "School_Name": "SANISLO ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 92.7,
+        "lat": 47.539141,
+        "lng": -122.358943
+    },
+    {
+        "School_Name": "SIERRA HEIGHTS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 86.3,
+        "lat": 47.514428,
+        "lng": -122.164603
+    },
+    {
+        "School_Name": "GILDO REY ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 86.0,
+        "lat": 47.276655,
+        "lng": -122.215358
+    },
+    {
+        "School_Name": "Issaquah Valley Elementary",
+        "Percent_complete_for_all_immunizations": 96.6,
+        "lat": 47.537666,
+        "lng": -122.042085
+    },
+    {
+        "School_Name": "FROST ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 86.4,
+        "lat": 47.725821,
+        "lng": -122.183758
+    },
+    {
+        "School_Name": "Cedar Valley Elementary",
+        "Percent_complete_for_all_immunizations": 81.3,
+        "lat": 47.364625,
+        "lng": -122.087453
+    },
+    {
+        "School_Name": "Springbrook Elementary",
+        "Percent_complete_for_all_immunizations": 93.5,
+        "lat": 47.421491,
+        "lng": -122.207509
+    },
+    {
+        "School_Name": "Fairwood Elementary",
+        "Percent_complete_for_all_immunizations": 84.3,
+        "lat": 47.453484,
+        "lng": -122.142915
+    },
+    {
+        "School_Name": "SHELTON VIEW ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 86.9,
+        "lat": 47.785396,
+        "lng": -122.240112
+    },
+    {
+        "School_Name": "BRIGADOON ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 80.9,
+        "lat": 47.300735,
+        "lng": -122.378238
+    },
+    {
+        "School_Name": "TIFFANY PARK ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 89.2,
+        "lat": 47.466127,
+        "lng": -122.178362
+    },
+    {
+        "School_Name": "RUSH ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 94.1,
+        "lat": 47.661559,
+        "lng": -122.137961
+    },
+    {
+        "School_Name": "KELLER ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 88.1,
+        "lat": 47.724816,
+        "lng": -122.197077
+    },
+    {
+        "School_Name": "Bennett Elementary",
+        "Percent_complete_for_all_immunizations": 85.0,
+        "lat": 47.623975,
+        "lng": -122.101691
+    },
+    {
+        "School_Name": "Soos Creek Elementary",
+        "Percent_complete_for_all_immunizations": 86.9,
+        "lat": 47.406512,
+        "lng": -122.17145
+    },
+    {
+        "School_Name": "Grass Lake Elementary",
+        "Percent_complete_for_all_immunizations": 92.3,
+        "lat": 47.343701,
+        "lng": -122.086664
+    },
+    {
+        "School_Name": "LOWELL ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 77.0,
+        "lat": 47.62427,
+        "lng": -122.318305
+    },
+    {
+        "School_Name": "B F DAY ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 71.9,
+        "lat": 47.655144,
+        "lng": -122.34857
+    },
+    {
+        "School_Name": "LAKE DOLLOFF ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 93.6,
+        "lat": 47.32585,
+        "lng": -122.278832
+    },
+    {
+        "School_Name": "SOUTHWOOD ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 84.5,
+        "lat": 47.188258,
+        "lng": -122.013197
+    },
+    {
+        "School_Name": "TALBOT HILL ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 92.9,
+        "lat": 47.45878,
+        "lng": -122.212396
+    },
+    {
+        "School_Name": "Cherry Crest Elementary",
+        "Percent_complete_for_all_immunizations": 81.6,
+        "lat": 47.638921,
+        "lng": -122.173722
+    },
+    {
+        "School_Name": "EVERGREEN HEIGHTS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 85.9,
+        "lat": 47.318782,
+        "lng": -122.264346
+    },
+    {
+        "School_Name": "Apollo Elementary",
+        "Percent_complete_for_all_immunizations": 91.4,
+        "lat": 47.497873,
+        "lng": -122.139161
+    },
+    {
+        "School_Name": "SANDBURG ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 93.7,
+        "lat": 47.71517,
+        "lng": -122.22948
+    },
+    {
+        "School_Name": "MUIR ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 73.6,
+        "lat": 47.726783,
+        "lng": -122.164047
+    },
+    {
+        "School_Name": "WOODIN ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 68.5,
+        "lat": 47.768898,
+        "lng": -122.167284
+    },
+    {
+        "School_Name": "Somerset Elementary",
+        "Percent_complete_for_all_immunizations": 80.9,
+        "lat": 47.562538,
+        "lng": -122.152292
+    },
+    {
+        "School_Name": "DEARBORN PARK ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 78.8,
+        "lat": 47.550855,
+        "lng": -122.295534
+    },
+    {
+        "School_Name": "ALPAC ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 82.9,
+        "lat": 47.269144,
+        "lng": -122.250114
+    },
+    {
+        "School_Name": "LICTON SPRINGS K-8",
+        "Percent_complete_for_all_immunizations": 71.0,
+        "lat": 47.713503,
+        "lng": -122.315216
+    },
+    {
+        "School_Name": "KIRK ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 64.8,
+        "lat": 47.686534,
+        "lng": -122.197277
+    },
+    {
+        "School_Name": "MERIDIAN PARK ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 92.6,
+        "lat": 47.752615,
+        "lng": -122.334787
+    },
+    {
+        "School_Name": "THORNTON CREEK ELEMENTARY SCHOO",
+        "Percent_complete_for_all_immunizations": 84.6,
+        "lat": 47.685596,
+        "lng": -122.282084
+    },
+    {
+        "School_Name": "CANYON CREEK ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 84.6,
+        "lat": 47.80359,
+        "lng": -122.186189
+    },
+    {
+        "School_Name": "DICKINSON ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 80.9,
+        "lat": 47.668488,
+        "lng": -122.06276
+    },
+    {
+        "School_Name": "ORCA K-8 SCHOOL",
+        "Percent_complete_for_all_immunizations": 86.5,
+        "lat": 47.55472,
+        "lng": -122.275391
+    },
+    {
+        "School_Name": "WELLINGTON ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 92.3,
+        "lat": 47.768722,
+        "lng": -122.119135
+    },
+    {
+        "School_Name": "MARGARET MEAD ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 77.5,
+        "lat": 47.626022,
+        "lng": -122.051708
+    },
+    {
+        "School_Name": "LAKE VIEW ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 84.8,
+        "lat": 47.317012,
+        "lng": -122.12322
+    },
+    {
+        "School_Name": "HOLLYWOOD HILL ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 86.8,
+        "lat": 47.752594,
+        "lng": -122.141698
+    },
+    {
+        "School_Name": "Crestwood Elementary",
+        "Percent_complete_for_all_immunizations": 88.6,
+        "lat": 47.375256,
+        "lng": -122.101761
+    },
+    {
+        "School_Name": "NORMAN ROCKWELL ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 87.6,
+        "lat": 47.699319,
+        "lng": -122.123298
+    },
+    {
+        "School_Name": "SUNRISE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 93.6,
+        "lat": 47.728505,
+        "lng": -122.107438
+    },
+    {
+        "School_Name": "SOUTH SHORE PK-8 SCHOOL",
+        "Percent_complete_for_all_immunizations": 73.6,
+        "lat": 47.523316,
+        "lng": -122.271921
+    },
+    {
+        "School_Name": "HAWTHORNE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 82.8,
+        "lat": 47.565447,
+        "lng": -122.283884
+    },
+    {
+        "School_Name": "LOUISA MAY ALCOTT ELEMENTAR",
+        "Percent_complete_for_all_immunizations": 71.9,
+        "lat": 47.646971,
+        "lng": -122.035462
+    },
+    {
+        "School_Name": "HUTCH SCHOOL",
+        "Percent_complete_for_all_immunizations": 0.0,
+        "lat": 47.606963,
+        "lng": -122.321432
+    },
+    {
+        "School_Name": "SUNRISE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 90.1,
+        "lat": 47.268926,
+        "lng": -122.016888
+    },
+    {
+        "School_Name": "Ridgewood Elementary",
+        "Percent_complete_for_all_immunizations": 85.7,
+        "lat": 47.440581,
+        "lng": -122.12456
+    },
+    {
+        "School_Name": "Martin Sortun Elementary",
+        "Percent_complete_for_all_immunizations": 82.3,
+        "lat": 47.379667,
+        "lng": -122.17151
+    },
+    {
+        "School_Name": "Challenger Elementary",
+        "Percent_complete_for_all_immunizations": 96.4,
+        "lat": 47.576347,
+        "lng": -122.003174
+    },
+    {
+        "School_Name": "Jenkins Creek Elementary",
+        "Percent_complete_for_all_immunizations": 84.2,
+        "lat": 47.360665,
+        "lng": -122.093936
+    },
+    {
+        "School_Name": "SAMANTHA SMITH ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 89.7,
+        "lat": 47.622054,
+        "lng": -122.027404
+    },
+    {
+        "School_Name": "BEAR CREEK ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 79.2,
+        "lat": 47.760059,
+        "lng": -122.080657
+    },
+    {
+        "School_Name": "FERNWOOD ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 89.6,
+        "lat": 47.81905,
+        "lng": -122.179071
+    },
+    {
+        "School_Name": "EDWIN R OPSTAD ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 90.7,
+        "lat": 47.483659,
+        "lng": -121.763715
+    },
+    {
+        "School_Name": "WILDER ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 88.5,
+        "lat": 47.718704,
+        "lng": -122.041243
+    },
+    {
+        "School_Name": "SILVER LAKE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 88.7,
+        "lat": 47.311217,
+        "lng": -122.363437
+    },
+    {
+        "School_Name": "Horizon Elementary",
+        "Percent_complete_for_all_immunizations": 85.7,
+        "lat": 47.353603,
+        "lng": -122.149582
+    },
+    {
+        "School_Name": "HAZELWOOD ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 78.4,
+        "lat": 47.329855,
+        "lng": -122.184284
+    },
+    {
+        "School_Name": "Carriage Crest Elementary",
+        "Percent_complete_for_all_immunizations": 94.2,
+        "lat": 47.43807,
+        "lng": -122.154506
+    },
+    {
+        "School_Name": "CHRISTA MCAULIFFE ELEMENTAR",
+        "Percent_complete_for_all_immunizations": 89.5,
+        "lat": 47.629455,
+        "lng": -122.020627
+    },
+    {
+        "School_Name": "FRANK LOVE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 91.6,
+        "lat": 47.795027,
+        "lng": -122.236957
+    },
+    {
+        "School_Name": "Neely O Brian Elementary",
+        "Percent_complete_for_all_immunizations": 84.3,
+        "lat": 47.39029,
+        "lng": -122.256395
+    },
+    {
+        "School_Name": "SHERWOOD FOREST ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 76.3,
+        "lat": 47.291857,
+        "lng": -122.350797
+    },
+    {
+        "School_Name": "Cougar Ridge Elementary",
+        "Percent_complete_for_all_immunizations": 91.9,
+        "lat": 47.452364,
+        "lng": -122.025127
+    },
+    {
+        "School_Name": "Discovery Elementary",
+        "Percent_complete_for_all_immunizations": 97.8,
+        "lat": 47.58926,
+        "lng": -122.03539
+    },
+    {
+        "School_Name": "WOODMOOR ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 88.5,
+        "lat": 47.760089,
+        "lng": -122.205434
+    },
+    {
+        "School_Name": "EAST RIDGE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 75.0,
+        "lat": 47.741041,
+        "lng": -122.044121
+    },
+    {
+        "School_Name": "George T. Daniel Elementary",
+        "Percent_complete_for_all_immunizations": 69.9,
+        "lat": 47.379697,
+        "lng": -122.191281
+    },
+    {
+        "School_Name": "ROCK CREEK ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 88.4,
+        "lat": 47.390305,
+        "lng": -122.045412
+    },
+    {
+        "School_Name": "ILALKO ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 79.6,
+        "lat": 47.264462,
+        "lng": -122.22485
+    },
+    {
+        "School_Name": "Sunrise Elementary",
+        "Percent_complete_for_all_immunizations": 95.5,
+        "lat": 47.402743,
+        "lng": -122.165321
+    },
+    {
+        "School_Name": "RAINIER VIEW ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 85.3,
+        "lat": 47.271738,
+        "lng": -122.294226
+    },
+    {
+        "School_Name": "ALBERT EINSTEIN ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 94.3,
+        "lat": 47.703571,
+        "lng": -122.098285
+    },
+    {
+        "School_Name": "GREEN GABLES ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 74.1,
+        "lat": 47.308892,
+        "lng": -122.39273
+    },
+    {
+        "School_Name": "GLACIER PARK ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 95.0,
+        "lat": 47.350645,
+        "lng": -122.024397
+    },
+    {
+        "School_Name": "KOKANEE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 87.3,
+        "lat": 47.781143,
+        "lng": -122.157546
+    },
+    {
+        "School_Name": "Meadow Ridge Elementary",
+        "Percent_complete_for_all_immunizations": 84.5,
+        "lat": 47.353765,
+        "lng": -122.197021
+    },
+    {
+        "School_Name": "Sawyer Woods Elementary",
+        "Percent_complete_for_all_immunizations": 78.2,
+        "lat": 47.324087,
+        "lng": -122.039263
+    },
+    {
+        "School_Name": "CHAUTAUQUA ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 76.2,
+        "lat": 47.429222,
+        "lng": -122.452615
+    },
+    {
+        "School_Name": "ENTERPRISE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 87.7,
+        "lat": 47.286964,
+        "lng": -122.341844
+    },
+    {
+        "School_Name": "MEREDITH HILL ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 85.7,
+        "lat": 47.333045,
+        "lng": -122.26079
+    },
+    {
+        "School_Name": "Glenridge Elementary",
+        "Percent_complete_for_all_immunizations": 90.5,
+        "lat": 47.430501,
+        "lng": -122.181147
+    },
+    {
+        "School_Name": "Endeavour Elementary",
+        "Percent_complete_for_all_immunizations": 95.3,
+        "lat": 47.571797,
+        "lng": -121.989694
+    },
+    {
+        "School_Name": "Kent Elementary",
+        "Percent_complete_for_all_immunizations": 85.4,
+        "lat": 47.380367,
+        "lng": -122.253709
+    },
+    {
+        "School_Name": "ELIZABETH BLACKWELL ELEMENT",
+        "Percent_complete_for_all_immunizations": 87.9,
+        "lat": 47.639236,
+        "lng": -122.065765
+    },
+    {
+        "School_Name": "Emerald Park Elementary",
+        "Percent_complete_for_all_immunizations": 84.3,
+        "lat": 47.408605,
+        "lng": -122.183554
+    },
+    {
+        "School_Name": "Cascade Ridge Elementary",
+        "Percent_complete_for_all_immunizations": 94.7,
+        "lat": 47.590056,
+        "lng": -121.973376
+    },
+    {
+        "School_Name": "Millennium Elementary",
+        "Percent_complete_for_all_immunizations": 91.0,
+        "lat": 47.35978,
+        "lng": -122.180776
+    },
+    {
+        "School_Name": "Newcastle Elementary",
+        "Percent_complete_for_all_immunizations": 91.6,
+        "lat": 47.527594,
+        "lng": -122.160183
+    },
+    {
+        "School_Name": "CASCADE VIEW ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 88.6,
+        "lat": 47.531854,
+        "lng": -121.876585
+    },
+    {
+        "School_Name": "PRIVATE SCHOOL SERVICES (CONTRACT EEU)",
+        "Percent_complete_for_all_immunizations": 70.0,
+        "lat": 47.615739,
+        "lng": -122.346546
+    },
+    {
+        "School_Name": "LAKELAND HILLS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 92.6,
+        "lat": 47.254876,
+        "lng": -122.216197
+    },
+    {
+        "School_Name": "ROSA PARKS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 83.9,
+        "lat": 47.685751,
+        "lng": -122.035166
+    },
+    {
+        "School_Name": "ARTHUR JACOBSEN ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 83.3,
+        "lat": 47.340028,
+        "lng": -122.16555
+    },
+    {
+        "School_Name": "RACHEL CARSON ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 85.5,
+        "lat": 47.619175,
+        "lng": -122.013873
+    },
+    {
+        "School_Name": "HAZEL WOLF K-8",
+        "Percent_complete_for_all_immunizations": 88.5,
+        "lat": 47.708835,
+        "lng": -122.292101
+    },
+    {
+        "School_Name": "Panther Lake Elementary",
+        "Percent_complete_for_all_immunizations": 88.3,
+        "lat": 47.408661,
+        "lng": -122.204757
+    },
+    {
+        "School_Name": "Creekside Elementary",
+        "Percent_complete_for_all_immunizations": 94.9,
+        "lat": 47.595083,
+        "lng": -122.062252
+    },
+    {
+        "School_Name": "MC DONALD ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 87.0,
+        "lat": 47.660149,
+        "lng": -122.340686
+    },
+    {
+        "School_Name": "QUEEN ANNE ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 79.7,
+        "lat": 47.660149,
+        "lng": -122.340686
+    },
+    {
+        "School_Name": "SAND POINT ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 78.9,
+        "lat": 47.673935,
+        "lng": -122.263527
+    },
+    {
+        "School_Name": "HONEY DEW ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 89.0,
+        "lat": 47.495791,
+        "lng": -122.164437
+    },
+    {
+        "School_Name": "K-8 STEM AT BOREN",
+        "Percent_complete_for_all_immunizations": 78.2,
+        "lat": 47.548208,
+        "lng": -122.363041
+    },
+    {
+        "School_Name": "Central Education Services",
+        "Percent_complete_for_all_immunizations": 25.0,
+        "lat": 47.61129,
+        "lng": -122.180928
+    },
+    {
+        "School_Name": "Central Education Services",
+        "Percent_complete_for_all_immunizations": 25.0,
+        "lat": 47.61129,
+        "lng": -122.180928
+    },
+    {
+        "School_Name": "Jing Mei Elementary",
+        "Percent_complete_for_all_immunizations": 80.6,
+        "lat": 47.611225,
+        "lng": -122.138229
+    },
+    {
+        "School_Name": "NORTHWOOD ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 91.0,
+        "lat": 47.573595,
+        "lng": -122.224239
+    },
+    {
+        "School_Name": "TIMBER RIDGE ELEMENTARY SCHOOL",
+        "Percent_complete_for_all_immunizations": 92.0,
+        "lat": 47.524307,
+        "lng": -121.880896
+    },
+    {
+        "School_Name": "CEDAR PARK ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 92.3,
+        "lat": 47.72642,
+        "lng": -122.288217
+    },
+    {
+        "School_Name": "MMSC DAY SCHOOL",
+        "Percent_complete_for_all_immunizations": 50.0,
+        "lat": 47.690789,
+        "lng": -122.312232
+    },
+    {
+        "School_Name": "CEDAR CREST BELLEWOOD",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.621625,
+        "lng": -122.177483
+    },
+    {
+        "School_Name": "SEATTLE JEWISH COMMUNITY SCHOOL",
+        "Percent_complete_for_all_immunizations": 90.0,
+        "lat": 47.719181,
+        "lng": -122.320851
+    },
+    {
+        "School_Name": "SEATTLE AREA GERMAN AMERICAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.665668,
+        "lng": -122.313076
+    },
+    {
+        "School_Name": "HILLSIDE ACADEMY",
+        "Percent_complete_for_all_immunizations": 88.9,
+        "lat": 47.740589,
+        "lng": -121.986087
+    },
+    {
+        "School_Name": "APPLIED SCHOLASTICS ACADEMY OF SEATTLE",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.676999,
+        "lng": -122.322886
+    },
+    {
+        "School_Name": "UCIC SCHOOL",
+        "Percent_complete_for_all_immunizations": 97.0,
+        "lat": 47.780019,
+        "lng": -122.182254
+    },
+    {
+        "School_Name": "BELLEVUE CHILDREN'S ACADEMY 2ND LOCATION",
+        "Percent_complete_for_all_immunizations": 74.3,
+        "lat": 47.631506,
+        "lng": -122.14545
+    },
+    {
+        "School_Name": "BLOSSOMING HILL MONTESSORI",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.408332,
+        "lng": -122.022392
+    },
+    {
+        "School_Name": "THE LAKE AND PARK SCHOOL",
+        "Percent_complete_for_all_immunizations": 85.7,
+        "lat": 47.575008,
+        "lng": -122.285091
+    },
+    {
+        "School_Name": "ASSUMPTION ST. BRIDGET",
+        "Percent_complete_for_all_immunizations": 90.2,
+        "lat": 47.675064,
+        "lng": -122.293281
+    },
+    {
+        "School_Name": "SEATTLE AMISTAD SCHOOL",
+        "Percent_complete_for_all_immunizations": 52.0,
+        "lat": 47.608004,
+        "lng": -122.300825
+    },
+    {
+        "School_Name": "NORTH SEATTLE FRENCH SCHOOL",
+        "Percent_complete_for_all_immunizations": 84.6,
+        "lat": 47.676994,
+        "lng": -122.352635
+    },
+    {
+        "School_Name": "CHRIST THE KING SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.714126,
+        "lng": -122.353404
+    },
+    {
+        "School_Name": "CONCORDIA LUTHERAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.680822,
+        "lng": -122.2893
+    },
+    {
+        "School_Name": "EPIPHANY SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.618369,
+        "lng": -122.286627
+    },
+    {
+        "School_Name": "The Evergreen School",
+        "Percent_complete_for_all_immunizations": 75.6,
+        "lat": 47.73873,
+        "lng": -122.334418
+    },
+    {
+        "School_Name": "THE BUSH SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.622509,
+        "lng": -122.286773
+    },
+    {
+        "School_Name": "THE EASTSIDE MONTESSORI SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.627852,
+        "lng": -122.196236
+    },
+    {
+        "School_Name": "NORTHERN LIGHTS MONTESSORI WILLOWS CAMPUS",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.678006,
+        "lng": -122.127515
+    },
+    {
+        "School_Name": "SEATTLE CLASSICAL CHRISTIAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 69.6,
+        "lat": 47.603072,
+        "lng": -122.306339
+    },
+    {
+        "School_Name": "Holy Family Bi-Lingual",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.516327,
+        "lng": -122.359191
+    },
+    {
+        "School_Name": "HOLY ROSARY ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 73.1,
+        "lat": 47.56572,
+        "lng": -122.385421
+    },
+    {
+        "School_Name": "NORTHLAKE PRESCHOOL/ NORTHLAKE ACADEMY",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.713641,
+        "lng": -122.168027
+    },
+    {
+        "School_Name": "ALFAJER SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.603229,
+        "lng": -122.33028
+    },
+    {
+        "School_Name": "LES LILAS",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.665612,
+        "lng": -122.164042
+    },
+    {
+        "School_Name": "SYNERGY LEARNING ACADEMY",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.551977,
+        "lng": -122.061271
+    },
+    {
+        "School_Name": "OUR LADY OF FATIMA SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.648614,
+        "lng": -122.399559
+    },
+    {
+        "School_Name": "OUR LADY OF GUADALUPE SCHOOL",
+        "Percent_complete_for_all_immunizations": 74.1,
+        "lat": 47.539226,
+        "lng": -122.375872
+    },
+    {
+        "School_Name": "VILLA ACADEMY",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.664897,
+        "lng": -122.273205
+    },
+    {
+        "School_Name": "SEATTLE HEBREW ACADEMY",
+        "Percent_complete_for_all_immunizations": 60.0,
+        "lat": 47.634016,
+        "lng": -122.307522
+    },
+    {
+        "School_Name": "KINEO SCHOOL",
+        "Percent_complete_for_all_immunizations": 50.0,
+        "lat": 47.672128,
+        "lng": -122.163921
+    },
+    {
+        "School_Name": "ST. ALPHONSUS SCHOOL",
+        "Percent_complete_for_all_immunizations": 75.0,
+        "lat": 47.671016,
+        "lng": -122.376217
+    },
+    {
+        "School_Name": "ST. ANNE SCHOOL",
+        "Percent_complete_for_all_immunizations": 96.2,
+        "lat": 47.631302,
+        "lng": -122.358546
+    },
+    {
+        "School_Name": "ST. CATHERINE SCHOOL",
+        "Percent_complete_for_all_immunizations": 35.7,
+        "lat": 47.690617,
+        "lng": -122.320277
+    },
+    {
+        "School_Name": "ST. EDWARDS SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.550426,
+        "lng": -122.278737
+    },
+    {
+        "School_Name": "ST. GEORGE SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.55639,
+        "lng": -122.316114
+    },
+    {
+        "School_Name": "ST. JOHN SCHOOL",
+        "Percent_complete_for_all_immunizations": 95.5,
+        "lat": 47.68621,
+        "lng": -122.356946
+    },
+    {
+        "School_Name": "ST. JOSEPH SCHOOL",
+        "Percent_complete_for_all_immunizations": 92.1,
+        "lat": 47.625245,
+        "lng": -122.308665
+    },
+    {
+        "School_Name": "ST. MATTHEW SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.721229,
+        "lng": -122.314015
+    },
+    {
+        "School_Name": "ST. PAUL SCHOOL",
+        "Percent_complete_for_all_immunizations": 93.8,
+        "lat": 47.511645,
+        "lng": -122.262071
+    },
+    {
+        "School_Name": "ST. THERESE SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.610704,
+        "lng": -122.288267
+    },
+    {
+        "School_Name": "ST. VINCENT DE PAUL SCHOOL",
+        "Percent_complete_for_all_immunizations": 92.3,
+        "lat": 47.327383,
+        "lng": -122.323999
+    },
+    {
+        "School_Name": "SPRING VALLEY MONTESSORI",
+        "Percent_complete_for_all_immunizations": 92.3,
+        "lat": 47.272344,
+        "lng": -122.329469
+    },
+    {
+        "School_Name": "ST. MONICA SCHOOL",
+        "Percent_complete_for_all_immunizations": 94.4,
+        "lat": 47.568756,
+        "lng": -122.222879
+    },
+    {
+        "School_Name": "SEATTLE CHRISTIAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 85.7,
+        "lat": 47.439352,
+        "lng": -122.271923
+    },
+    {
+        "School_Name": "SEATTLE COUNTRY DAY SCHOOL",
+        "Percent_complete_for_all_immunizations": 87.5,
+        "lat": 47.64362,
+        "lng": -122.349582
+    },
+    {
+        "School_Name": "ST. BERNADETTE SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.488468,
+        "lng": -122.348595
+    },
+    {
+        "School_Name": "ST. FRANCIS OF ASSISI SCHOOL",
+        "Percent_complete_for_all_immunizations": 83.3,
+        "lat": 47.46548,
+        "lng": -122.360612
+    },
+    {
+        "School_Name": "ST. ANTHONY SCHOOL",
+        "Percent_complete_for_all_immunizations": 93.2,
+        "lat": 47.478762,
+        "lng": -122.213287
+    },
+    {
+        "School_Name": "BELLEVUE CHRISTIAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 88.4,
+        "lat": 47.624988,
+        "lng": -122.2098
+    },
+    {
+        "School_Name": "SACRED HEART SCHOOL",
+        "Percent_complete_for_all_immunizations": 75.0,
+        "lat": 47.622943,
+        "lng": -122.212744
+    },
+    {
+        "School_Name": "ST. LOUISE SCHOOL",
+        "Percent_complete_for_all_immunizations": 97.0,
+        "lat": 47.608906,
+        "lng": -122.132222
+    },
+    {
+        "School_Name": "ST. THOMAS SCHOOL",
+        "Percent_complete_for_all_immunizations": 97.2,
+        "lat": 47.621071,
+        "lng": -122.232052
+    },
+    {
+        "School_Name": "BUENA VISTA SDA SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.281566,
+        "lng": -122.158824
+    },
+    {
+        "School_Name": "HOLY FAMILY SCHOOL",
+        "Percent_complete_for_all_immunizations": 87.5,
+        "lat": 47.293644,
+        "lng": -122.222663
+    },
+    {
+        "School_Name": "Kings Schools",
+        "Percent_complete_for_all_immunizations": 63.2,
+        "lat": 47.769358,
+        "lng": -122.351259
+    },
+    {
+        "School_Name": "ST. MARK SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.760743,
+        "lng": -122.313515
+    },
+    {
+        "School_Name": "SHORELINE CHRISTIAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 90.0,
+        "lat": 47.735649,
+        "lng": -122.302959
+    },
+    {
+        "School_Name": "HOLY FAMILY PARISH SCHOOL",
+        "Percent_complete_for_all_immunizations": 96.7,
+        "lat": 47.669998,
+        "lng": -122.180185
+    },
+    {
+        "School_Name": "KIRKLAND SDA SCHOOL",
+        "Percent_complete_for_all_immunizations": 92.3,
+        "lat": 47.656608,
+        "lng": -122.196232
+    },
+    {
+        "School_Name": "St. Brendan School",
+        "Percent_complete_for_all_immunizations": 68.2,
+        "lat": 47.769233,
+        "lng": -122.205033
+    },
+    {
+        "School_Name": "MATHEIA SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.67769,
+        "lng": -122.384356
+    },
+    {
+        "School_Name": "THE LITTLE SCHOOL",
+        "Percent_complete_for_all_immunizations": 92.0,
+        "lat": 47.635734,
+        "lng": -122.185608
+    },
+    {
+        "School_Name": "PERKINS SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.694267,
+        "lng": -122.317598
+    },
+    {
+        "School_Name": "The Harbor School",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.462793,
+        "lng": -122.46035
+    },
+    {
+        "School_Name": "FRENCH-AM SCHOOL OF PUGET SOUND",
+        "Percent_complete_for_all_immunizations": 55.6,
+        "lat": 47.575658,
+        "lng": -122.20583
+    },
+    {
+        "School_Name": "ST. JOSEPH CATHOLIC SCHOOL OF ISSAQUAH",
+        "Percent_complete_for_all_immunizations": 89.5,
+        "lat": 47.530072,
+        "lng": -122.032904
+    },
+    {
+        "School_Name": "SNOQUALMIE SPRINGS SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.564264,
+        "lng": -122.002545
+    },
+    {
+        "School_Name": "BELLEVUE MONTESSORI SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.632299,
+        "lng": -122.190937
+    },
+    {
+        "School_Name": "AMAZING GRACE CHRISTIAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 73.3,
+        "lat": 47.510966,
+        "lng": -122.260642
+    },
+    {
+        "School_Name": "THE CLEARWATER SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.820316,
+        "lng": -122.211657
+    },
+    {
+        "School_Name": "GLENDALE LUTHERAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 85.7,
+        "lat": 47.482275,
+        "lng": -122.336525
+    },
+    {
+        "School_Name": "MERIDIAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 93.9,
+        "lat": 47.663831,
+        "lng": -122.330171
+    },
+    {
+        "School_Name": "FRENCH IMMERSION SCHOOL OF WA",
+        "Percent_complete_for_all_immunizations": 70.0,
+        "lat": 47.570058,
+        "lng": -122.101153
+    },
+    {
+        "School_Name": "UNIVERSITY COOPERATIVE SCHOOL",
+        "Percent_complete_for_all_immunizations": 80.0,
+        "lat": 47.66965,
+        "lng": -122.313044
+    },
+    {
+        "School_Name": "BERTSCHI SCHOOL",
+        "Percent_complete_for_all_immunizations": 97.2,
+        "lat": 47.639248,
+        "lng": -122.320076
+    },
+    {
+        "School_Name": "VALLEY CHRISTIAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.306785,
+        "lng": -122.211195
+    },
+    {
+        "School_Name": "SEATTLE WALDORF - THREE CEDARS",
+        "Percent_complete_for_all_immunizations": 64.5,
+        "lat": 47.615038,
+        "lng": -122.174978
+    },
+    {
+        "School_Name": "CASCADIA MONTESSORI SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.6485,
+        "lng": -122.124326
+    },
+    {
+        "School_Name": "ARBOR SCHOOLS (EASTSIDE MONTESSORI EDUCATION FOUNDATION)",
+        "Percent_complete_for_all_immunizations": 84.6,
+        "lat": 47.599847,
+        "lng": -122.035565
+    },
+    {
+        "School_Name": "SHOREWOOD CHRISTIAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 57.1,
+        "lat": 47.510677,
+        "lng": -122.368391
+    },
+    {
+        "School_Name": "HOLY TRINITY LUTHERAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.368755,
+        "lng": -122.307475
+    },
+    {
+        "School_Name": "RENTON CHRISTIAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 87.0,
+        "lat": 47.463016,
+        "lng": -122.137624
+    },
+    {
+        "School_Name": "ETON SCHOOL",
+        "Percent_complete_for_all_immunizations": 87.2,
+        "lat": 47.634834,
+        "lng": -122.128711
+    },
+    {
+        "School_Name": "THREE POINTS ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 94.1,
+        "lat": 47.635605,
+        "lng": -122.235896
+    },
+    {
+        "School_Name": "HERITAGE CHRISTIAN ACADEMY",
+        "Percent_complete_for_all_immunizations": 93.5,
+        "lat": 47.769708,
+        "lng": -122.201615
+    },
+    {
+        "School_Name": "JEWISH DAY SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.613407,
+        "lng": -122.128239
+    },
+    {
+        "School_Name": "MEDINA ACADEMY",
+        "Percent_complete_for_all_immunizations": 89.7,
+        "lat": 47.674872,
+        "lng": -122.118246
+    },
+    {
+        "School_Name": "CEDAR RIVER MONTESSORI SCHOOL",
+        "Percent_complete_for_all_immunizations": 86.7,
+        "lat": 47.465297,
+        "lng": -122.12784
+    },
+    {
+        "School_Name": "RAINIER CHRISTIAN SCHOOLS-KENT VIEW ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 70.0,
+        "lat": 47.350524,
+        "lng": -122.229697
+    },
+    {
+        "School_Name": "SEATTLE WALDORF SCHOOL - SEATTLE CAMPUSES",
+        "Percent_complete_for_all_immunizations": 51.7,
+        "lat": 47.701181,
+        "lng": -122.297673
+    },
+    {
+        "School_Name": "ST. PHILOMENA SCHOOL",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.404742,
+        "lng": -122.309688
+    },
+    {
+        "School_Name": "AMERICA'S CHILD MONTESSORI",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.628682,
+        "lng": -122.149509
+    },
+    {
+        "School_Name": "CEDAR PARK CHRISTIAN SCHOOL-BELLEVUE",
+        "Percent_complete_for_all_immunizations": 88.9,
+        "lat": 47.616014,
+        "lng": -122.153612
+    },
+    {
+        "School_Name": "EVERGREEN ACADEMY",
+        "Percent_complete_for_all_immunizations": 81.1,
+        "lat": 47.744221,
+        "lng": -122.182507
+    },
+    {
+        "School_Name": "NORTHWEST SCHOOL FOR HEARING IMPAIRED",
+        "Percent_complete_for_all_immunizations": 100.0,
+        "lat": 47.740068,
+        "lng": -122.349655
+    },
+    {
+        "School_Name": "SPRUCE STREET SCHOOL",
+        "Percent_complete_for_all_immunizations": 93.8,
+        "lat": 47.616798,
+        "lng": -122.335216
+    },
+    {
+        "School_Name": "EASTSIDE CHRISTIAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 82.1,
+        "lat": 47.590843,
+        "lng": -122.144673
+    },
+    {
+        "School_Name": "CEDAR PARK CHRISTIAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 0.785714286,
+        "lat": 47.746848,
+        "lng": -122.19144
+    },
+    {
+        "School_Name": "CHRISTIAN FAITH SCHOOL",
+        "Percent_complete_for_all_immunizations": 0.826086957,
+        "lat": 47.299419,
+        "lng": -122.307279
+    },
+    {
+        "School_Name": "WEST SEATTLE MONTESSORI SCHOOL",
+        "Percent_complete_for_all_immunizations": 0.842105263,
+        "lat": 47.501752,
+        "lng": -122.355164
+    },
+    {
+        "School_Name": "OPEN WINDOW SCHOOL",
+        "Percent_complete_for_all_immunizations": 1,
+        "lat": 47.547491,
+        "lng": -122.115557
+    },
+    {
+        "School_Name": "UNIVERSITY CHILD DEVELOPMENT SCHOOL",
+        "Percent_complete_for_all_immunizations": 0.931818182,
+        "lat": 47.666541,
+        "lng": -122.318426
+    },
+    {
+        "School_Name": "WOODINVILLE MONTESSORI SCHOOL",
+        "Percent_complete_for_all_immunizations": 0.869565217,
+        "lat": 47.766325,
+        "lng": -122.184537
+    },
+    {
+        "School_Name": "COUNTRYSIDE MONTESSORI SCHOOL",
+        "Percent_complete_for_all_immunizations": 0.727272727,
+        "lat": 47.72222,
+        "lng": -122.207779
+    },
+    {
+        "School_Name": "FAIRVIEW CHRISTIAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 0.909090909,
+        "lat": 47.685291,
+        "lng": -122.31796
+    },
+    {
+        "School_Name": "BELLEVUE CHRISTIAN MACK ELEMENTARY",
+        "Percent_complete_for_all_immunizations": 0.84,
+        "lat": 47.758709,
+        "lng": -122.115338
+    },
+    {
+        "School_Name": "WHOLE EARTH MONTESSORI SCHOOL",
+        "Percent_complete_for_all_immunizations": 0.928571429,
+        "lat": 47.791233,
+        "lng": -122.193578
+    },
+    {
+        "School_Name": "THE BEAR CREEK SCHOOL",
+        "Percent_complete_for_all_immunizations": 0.903846154,
+        "lat": 47.681242,
+        "lng": -122.062628
+    },
+    {
+        "School_Name": "VALLEY SCHOOL",
+        "Percent_complete_for_all_immunizations": 0.9375,
+        "lat": 47.621689,
+        "lng": -122.292025
+    },
+    {
+        "School_Name": "WESTSIDE SCHOOL",
+        "Percent_complete_for_all_immunizations": 0.9,
+        "lat": 47.532823,
+        "lng": -122.375256
+    },
+    {
+        "School_Name": "BROOKLAKE CHRISTIAN SCHOOL",
+        "Percent_complete_for_all_immunizations": 0.2,
+        "lat": 47.282623,
+        "lng": -122.325438
+    },
+    {
+        "School_Name": "EMERALD HEIGHTS ACADEMY",
+        "Percent_complete_for_all_immunizations": 0.555555556,
+        "lat": 47.576794,
+        "lng": -122.131928
+    },
+    {
+        "School_Name": "NEWPORT CHILDREN'S SCHOOL",
+        "Percent_complete_for_all_immunizations": 1,
+        "lat": 47.568355,
+        "lng": -122.166425
+    },
+    {
+        "School_Name": "Three Tree Montessori",
+        "Percent_complete_for_all_immunizations": 0.6,
+        "lat": 47.459697,
+        "lng": -122.336857
+    }
+]

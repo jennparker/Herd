@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_alerts"
+            android:icon="@drawable/ic_warning"
+            android:title="@string/nav_alerts" />
+        <item
+            android:id="@+id/nav_risks"
+            android:icon="@drawable/ic_flag"
+            android:title="@string/nav_vaccine_risks" />
+        <item
+            android:id="@+id/nav_get_vac"
+            android:icon="@drawable/ic_favorite"
+            android:title="@string/nav_get_vaccinated" />
+        <item
+            android:id="@+id/nav_faq"
+            android:icon="@drawable/ic_face"
+            android:title="@string/nav_faq" />
+        <item
+            android:id="@+id/nav_legend"
+            android:icon="@drawable/ic_show_chart_white"
+            android:title="@string/nav_legend"/>
+
+    </group>
+
+    <item android:title="@string/nav_spread_the_word">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/nav_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/nav_send" />
+        </menu>
+    </item>
+
+</menu>

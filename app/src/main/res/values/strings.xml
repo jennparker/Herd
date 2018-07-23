@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Herd</string>
+    <string name="title_activity_maps">Herd</string>
+    <string name="title_activity_filter">FilterActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Herd</string>
+    <string name="nav_header_subtitle">Make America Healthy Again</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_vaccine_risks">Vaccine Risks</string>
+    <string name="nav_faq">FAQ</string>
+    <string name="nav_legend">Legend</string>
+    <string name="nav_get_vaccinated">Get Vaccinated</string>
+    <string name="nav_spread_the_word">Spread the word</string>
+    <string name="nav_share">Share</string>
+    <string name="nav_send">Send</string>
+
+    <string name="first_run_title_one">What is Herd Immunity?</string>
+    <string name="first_run_title_two">Make Informed Decisions</string>
+    <string name="first_run_title_three">Keep Your Family Safe</string>
+
+    <string name="first_run_description_one">When the vaccinated protect the unvaccinated from infection</string>
+    <string name="first_run_description_two">Learn about how vaccines work and the associated risks</string>
+    <string name="first_run_description_three">Discover the overall health of your community</string>
+
+    <string name="dummy_button">Sample button</string>
+    <string name="dummy_content">Sample content</string>
+    <string name="legend_content_description">Legend image</string>
+
+</resources>
