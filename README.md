@@ -7,3 +7,8 @@ In December 2014, over 150 people contracted measles during an outbreak in Disne
 # Build Status 
 In-Progress :+1:
 # ScreenShots
+<div class="image-gallery">
+<img src="https://github.com/jennparker/Herd/blob/master/screenshots/start_up_one.png" width="300" height="500" hspace="20"/> 
+<img src="https://github.com/jennparker/Herd/blob/master/screenshots/map.png" width="300" height="500" hspace="20"/>
+<div class="clear"></div>
+</div>
