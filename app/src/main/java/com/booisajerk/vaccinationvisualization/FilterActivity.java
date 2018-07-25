@@ -1,32 +1,42 @@
 package com.booisajerk.vaccinationvisualization;
 
+import android.Manifest;
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.content.pm.PackageManager;
+import android.location.Location;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
+import com.google.android.gms.location.FusedLocationProviderClient;
+import com.google.android.gms.location.LocationServices;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.BitmapDescriptorFactory;
+import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
-import com.google.android.gms.maps.model.LatLngBounds;
 import com.google.android.gms.maps.model.MarkerOptions;
+import com.google.android.gms.tasks.OnSuccessListener;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -40,13 +50,48 @@ import java.util.Scanner;
 public class FilterActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, OnMapReadyCallback {
 
-    private GoogleMap mMap;
+    private GoogleMap map;
+    private FusedLocationProviderClient mFusedLocationClient;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_filter);
 
+        //check location permissions
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
+                == PackageManager.PERMISSION_GRANTED) {
+            Log.d("Parker", "Permissions granted");
+        } else {
+            Log.d("Parker", "Location not enabled");
+            ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.ACCESS_FINE_LOCATION, Manifest.permission.ACCESS_COARSE_LOCATION}, 1);
+        }
+
+        SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
+                .findFragmentById(R.id.map);
+        mapFragment.getMapAsync(this);
+
+
+        Toolbar toolbar = findViewById(R.id.toolbar);
+
+        FloatingActionButton fab = findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                goToCurrentLocation();
+                Log.d("Parker", "FAB clicked");
+            }
+        });
+
+        DrawerLayout drawer = findViewById(R.id.drawer_layout);
+        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
+                this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
+        drawer.addDrawerListener(toggle);
+        toggle.syncState();
+
+        NavigationView navigationView = findViewById(R.id.nav_view);
+        navigationView.setNavigationItemSelectedListener(this);
 
         // See if this is first run (on a new thread)
         Thread t = new Thread(new Runnable() {
@@ -75,38 +120,13 @@ public class FilterActivity extends AppCompatActivity
             }
         });
         t.start();
-        Toolbar toolbar = findViewById(R.id.toolbar);
-
-        FloatingActionButton fab = findViewById(R.id.fab);
-        //TODO add My location functionality here
-
-        DrawerLayout drawer = findViewById(R.id.drawer_layout);
-        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
-                this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
-        drawer.addDrawerListener(toggle);
-        toggle.syncState();
-
-        NavigationView navigationView = findViewById(R.id.nav_view);
-        navigationView.setNavigationItemSelectedListener(this);
-
-        SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
-                .findFragmentById(R.id.map);
-        mapFragment.getMapAsync(this);
-
-
     }
 
     @Override
     public void onMapReady(GoogleMap googleMap) {
-        mMap = googleMap;
-
-        LatLng kingNorthEast = new LatLng(47.659525, -122.255107);
-        LatLng kingSouthWest = new LatLng(47.569958, -122.377845);
-
-        LatLngBounds kingCounty = new LatLngBounds(kingSouthWest, kingNorthEast);
-        mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(kingCounty.getCenter(), 13));
-
+        map = googleMap;
         addMapMarkers();
+        goToCurrentLocation();
     }
 
     @Override
@@ -179,25 +199,52 @@ public class FilterActivity extends AppCompatActivity
     }
 
     private void addMapMarkers() {
-        List<Location> list = null;
+        List<School> list = null;
 
         try {
-            list = prepareLocations(R.raw.immunization);
+            list = prepareMarkers(R.raw.immunization);
         } catch (JSONException e) {
             Toast.makeText(this, "Problem reading list of locations.", Toast.LENGTH_LONG).show();
         }
 
         if (list != null) {
-            for (Location loc : list) {
-                mMap.addMarker(new MarkerOptions()
+            for (School loc : list) {
+                map.addMarker(new MarkerOptions()
                         .position(loc.getLatLng())
                         .title(loc.getName())
                         .icon(BitmapDescriptorFactory.defaultMarker(coverageToColor(loc.getPercentTotal())))
-                        .snippet("Percent coverage " + loc.getPercentTotal()));
+                        .snippet(loc.getPercentTotal() + "% vaccination coverage"));
             }
         }
     }
 
+    @SuppressLint("MissingPermission")
+    public void goToCurrentLocation() {
+        mFusedLocationClient = LocationServices.getFusedLocationProviderClient(this);
+        Log.d("Parker", "Creating FusedLocationClient");
+        mFusedLocationClient.getLastLocation()
+                .addOnSuccessListener(this, new OnSuccessListener<Location>() {
+                    @Override
+                    public void onSuccess(Location location) {
+                        if (location != null) {
+                            LatLng currentLocation = new LatLng(location.getLatitude(), location.getLongitude());
+
+                            CameraPosition cameraPosition = new CameraPosition.Builder()
+                                    .target(currentLocation)
+                                    .zoom(13)
+                                    .tilt(30)
+                                    .build();
+                            map.animateCamera(CameraUpdateFactory.newCameraPosition(cameraPosition));
+
+                            // Logic to handle location object
+                            Log.d("Parker", "Have last location.");
+                        } else {
+                            Log.d("Parker", "No last location found");
+                        }
+                    }
+                });
+
+    }
 
     /**
      * Assign a marker color based on location's percent vaccination coverage
@@ -214,8 +261,8 @@ public class FilterActivity extends AppCompatActivity
         }
     }
 
-    private ArrayList<Location> prepareLocations(int resource) throws JSONException {
-        ArrayList<Location> list = new ArrayList<>();
+    private ArrayList<School> prepareMarkers(int resource) throws JSONException {
+        ArrayList<School> list = new ArrayList<>();
         InputStream inputStream = getResources().openRawResource(resource);
         String json = new Scanner(inputStream).useDelimiter("\\A").next();
         JSONArray array = new JSONArray(json);
@@ -224,8 +271,8 @@ public class FilterActivity extends AppCompatActivity
             double lat = object.getDouble("lat");
             double lng = object.getDouble("lng");
             String name = object.getString("School_Name");
-            double percentTotal = object.getDouble("Percent_complete_for_all_immunizations");
-            list.add(new Location(name, percentTotal, lat, lng));
+            int percentTotal = (int) object.getDouble("Percent_complete_for_all_immunizations");
+            list.add(new School(name, percentTotal, lat, lng));
         }
         return list;
     }

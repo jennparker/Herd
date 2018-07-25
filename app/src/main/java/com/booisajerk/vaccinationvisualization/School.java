@@ -2,13 +2,13 @@ package com.booisajerk.vaccinationvisualization;
 
 import com.google.android.gms.maps.model.LatLng;
 
-public class Location {
+public class School {
     private String name;
-    private double percentTotal;
+    private int percentTotal;
     private double lat;
     private double lng;
 
-    Location(String name, double percentTotal, double lat, double lng) {
+    School(String name, int percentTotal, double lat, double lng) {
         this.name = name;
         this.percentTotal = percentTotal;
         this.lat = lat;
@@ -19,7 +19,7 @@ public class Location {
         return name;
     }
 
-    public double getPercentTotal() {
+    public int getPercentTotal() {
         return percentTotal;
     }
 
